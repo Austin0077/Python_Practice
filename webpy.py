@@ -4,3 +4,5 @@ myname={"name":{
 	"omambia":23
 }}
 print(myname['name'])
+
+
